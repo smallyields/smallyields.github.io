@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Barber Theme</title>
-    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+    <title>Small Yields</title>
+    <description>Small Yields is a collection of stories about unpretentious wines, their renegade makers, and their passionate followers. It's for anyone who enjoys sharing a glass off the beaten path and in good company. 
+Occasionally, it also acts as a space to explore the messy process of writing and creating, a reminder that great work is also about failing and trying again. 
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jun 2019 19:58:17 -0700</pubDate>
-    <lastBuildDate>Mon, 24 Jun 2019 19:58:17 -0700</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2019 17:25:02 -0700</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2019 17:25:02 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
