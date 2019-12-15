@@ -1,86 +1,586 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Small Yields</title>
-    <description>Small Yields is a collection of stories about unpretentious wines, their renegade makers, and their passionate followers. It's for anyone who enjoys sharing a glass off the beaten path and in good company. 
-Occasionally, it also acts as a space to explore the messy process of writing and creating, a reminder that great work is also about failing and trying again. 
-</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 Jul 2019 17:30:13 -0700</pubDate>
-    <lastBuildDate>Wed, 03 Jul 2019 17:30:13 -0700</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Day 3</title>
-        <description>&lt;p&gt;It’s day three, and what have I produced? I have five hundred words. A baby chapter…which took me two days to write and still needs editing.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-15T11:15:21-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Small Yields</title><subtitle>People of wine, People of the vine</subtitle><entry><title type="html">The Growing Pains of Small Wine Production</title><link href="http://localhost:4000/margin-wines/" rel="alternate" type="text/html" title="The Growing Pains of Small Wine Production" /><published>2019-11-25T00:00:00-08:00</published><updated>2019-11-25T00:00:00-08:00</updated><id>http://localhost:4000/margin-wines</id><content type="html" xml:base="http://localhost:4000/margin-wines/">&lt;p&gt;Nature has an incredible way of offering respite from the daily stresses that plague us. “Up here, my problems disappear when I can just be in nature tending to the vines,” Megan Bell says, “except my problems haven’t gone away.”&lt;/p&gt;
 
-&lt;p&gt;They say you have to show up to the page. Every. Day. I missed yesterday’s USA-ENG women’s quarter-final game for this. I’m missing the other quarter-final game today. All that so that I can show up to the page. And produce a sentence per hour.&lt;/p&gt;
+&lt;p&gt;It’s an early Tuesday morning in late September. My friends and I drive through the backroads of the Santa Cruz Mountains canopied by soaring redwoods that still glisten from early morning dew.&lt;/p&gt;
 
-&lt;p&gt;Writing is freakin’ hard. That self-righteous Millenial Medium blogger was probably right: I have nothing worthy to say. I’m just trying not to be an online polluter. The Internet is already so gross and dirty. I don’t want to add to the plethora of bad writing out there and create more word pollution.&lt;/p&gt;
+&lt;p&gt;The forest feels peaceful, a stark contrast from the traffic congestion we’ve escaped on the CA-17N as people from Santa Cruz head to work in the South Bay.&lt;/p&gt;
 
-&lt;p&gt;I got hungry, so I grabbed the closest resemblance to junk food I could find in my kitchen: Trader Joe’s unsweetened coconut chips. Yesterday, I finished the candied ginger hiding at the back of my cupboard. It was a bit stale but edible.  The day before that, I chewed through an old pack of gum I found at the bottom of my purse. There was a faded receipt stuck to the last piece. It tasted like expired mint chapstick. Am I the only one who needs to snack while she writes?  Déjà vu, I’m reliving my freshman year. I’ve tried offsetting the munchies with tea, water, iced coffee. I could start day drinking. That was a thing writers did before, right? Although it would make me sleepy. I could scrounge for the peanut butter jar. Wait. I haven’t kept any in the house for years, not since the overdose incident in my senior year. It’s all coming back to me now.&lt;/p&gt;
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-makjavich_vineyard.jpg/&quot; alt=&quot;Makjavich Vineyard, Santa Cruz Mountains&quot; /&gt;
+    &lt;figcaption&gt;Makjavich Vineyards in the Santa Cruz Mountains.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Shit, I’ve been sitting here for hours?! I didn’t realize that I’ve skipped lunch. (The coconut chip craving is starting to make sense). Can I call it a day now? I need to go to the grocery store and get me some fuel. I’m going to get fat on writing. Oh look, I surpassed this week’s daily word count record. By twenty-seven words. Today’s word count: 359&lt;/p&gt;
-</description>
-        <pubDate>Wed, 03 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2019/07/03/day3/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/03/day3/</guid>
-        
-        <category>The writer's life</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Polaroid Williamsburg</title>
-        <description>&lt;p&gt;Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.&lt;/p&gt;
+&lt;p&gt;We spot a few deer as we make our way up to the Makjavich vineyard, where Megan has been farming with the vineyard’s owner, Larry Makjavich. Today she is harvesting Pinot Noir, and we’ve come to help.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Megan arrives at the vineyard shortly after 8 am with a small group of volunteers, comprised of friends and a visiting cousin from North Carolina. The winemaker is warm and welcoming, almost zen-like. Her smile is so genuine it’s infectious. Nobody suspects that this will be a long day for her.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.&lt;/li&gt;
-  &lt;li&gt;Church-key crucifix messenger bag health goth&lt;/li&gt;
-  &lt;li&gt;Try-hard artisan direct trade&lt;/li&gt;
-  &lt;li&gt;Cold-pressed selfies&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;After we’ve harvested all the Pinot Noir, Megan will drive her pickup truck 30 miles to her winemaking co-op facility where she’ll shovel 1.6 tons of grapes into the de-stemmer and start pressing them immediately. Later she tells me that she finished her day around 9 pm that night.&lt;/p&gt;
 
-&lt;h3 id=&quot;subway-tile&quot;&gt;Subway tile&lt;/h3&gt;
-&lt;p&gt;Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.&lt;/p&gt;
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-megan_bell_2.jpg/&quot; alt=&quot;Megan Bell, Margin Wines&quot; /&gt;
+    &lt;figcaption&gt;Megan Bell, Margin Wines&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/placeholder-2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;As the sole proprietor of Margin Wines, Megan does it all (with the occasional help from friends and family). Some days she will drive three hours to tend to her grapes. Once she camped at Mesa del Sol in Arroyo Seco with owner Ann Hougham before harvesting grapes early the next morning.These are only a few examples of the many challenges to being a small producer. &lt;/p&gt;
 
-&lt;p&gt;Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.&lt;/p&gt;
+&lt;p&gt;“A little green is fine,” she says as she explains to us how to select and harvest the grapes. She’s afraid the Pinot might be too ripe.  Rising temperatures over the weekend, followed by light rain on Monday, meant that the Pinot had to be picked today.&lt;/p&gt;
+
+&lt;p&gt;Megan laughs when she recounts how she stumbled into winemaking. “My high school boyfriend and I were brewing beer at the time. We had this crazy idea that we would open a brewery-winery. He was going to take care of the brewing part, so I had to go to school to learn how to make wine.” And she did.&lt;/p&gt;
+
+&lt;p&gt;In 2012, she graduated from UC Davis with a degree in Viticulture and Enology. “Obviously, we are no longer together.” She rolls her eyes. The two separated before Megan finished her degree. But she persevered and went on to apprentice in wineries in California, Oregon, New Zealand, and France before returning home.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-volunteers-mwines.jpg&quot; alt=&quot;Volunteers working in the vines.&quot; /&gt;
+    &lt;figcaption&gt;Volunteers working in the vineyard&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s.
-&lt;cite&gt;Man braid&lt;/cite&gt;&lt;/p&gt;
+  &lt;p&gt;“Women are judged on their performance. Men are judged on their potential.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h4 id=&quot;subway-tile-1&quot;&gt;Subway tile&lt;/h4&gt;
-&lt;p&gt;Slow-carb cornhole crucifix thundercats intelligentsia. Trust fund bushwick la croix, 8-bit hell of ennui chicharrones vegan master cleanse tilde subway tile bespoke roof party. Next level celiac bushwick coloring book subway tile. Lyft knausgaard four loko, twee sustainable narwhal letterpress PBR&amp;amp;B kombucha paleo mixtape helvetica. Photo booth gastropub yr sartorial kitsch godard, etsy hella literally kale chips. Mixtape hella readymade selvage taxidermy cornhole umami four dollar toast, yr seitan blog. Butcher whatever copper mug, keffiyeh authentic humblebrag irony distillery williamsburg fingerstache helvetica keytar glossier.&lt;/p&gt;
+&lt;p&gt;Unbeknownst to Megan, perseverance is probably one of her greatest strengths. Starting a winemaking business where real estate and cost of living is among the most expensive in the US isn’t easy. And less so as a woman in her twenties trying to make headway in the industry. In her words, it was a very shitty time.&lt;/p&gt;
 
-&lt;p&gt;Gluten-free la croix activated charcoal tousled, brunch semiotics sartorial mustache hashtag. Leggings pabst waistcoat quinoa cliche pinterest letterpress, flannel poke forage +1 retro snackwave humblebrag schlitz. Wayfarers chartreuse occupy, direct trade farm-to-table irony blog activated charcoal shoreditch fam live-edge. Intelligentsia scenester gochujang gentrify portland offal. Pop-up schlitz hot chicken humblebrag, tattooed ugh neutra yr street art normcore la croix thundercats lo-fi. Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af. Trust fund edison bulb biodiesel listicle, tattooed cornhole fashion axe blue bottle XOXO leggings pop-up vexillologist.&lt;/p&gt;
+&lt;p&gt;“Women are judged on their performance. Men are judged on their potential.” This is a quote that Megan says has resonated strongly with her. She describes how she’s had to prove herself in order to have the same opportunities as her male counterparts, who’ve been either less experienced or knowledgeable than her.  Work always seemed to be a sprint to get things done and then move on to the next thing.&lt;/p&gt;
 
-&lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2017/10/23/polaroid-williamsburg/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/23/polaroid-williamsburg/</guid>
-        
-        <category>Indie Wines</category>
-        
-        <category>Reading list</category>
-        
-        <category>Kale</category>
-        
-        
-      </item>
+&lt;p&gt;Something shifted though when she spent some time in France. There she discovered that winemaking could be a lifestyle, not just a job. She learned that wine could be made differently from what was taught at school. She saw that you didn’t have to rush all the time.&lt;/p&gt;
+
+&lt;p&gt;Megan also fell in love with Chenin Blanc. Soon, she wanted to come home to the US to make wine from underrepresented regions, vineyards and grape varietals.  Influenced by winemaking techniques in the Loire Valley, one of the current hotspots for natural wine, she wanted to work with organic fruit.&lt;/p&gt;
+
+&lt;p&gt;Finding work back home in the Santa Cruz Mountains proved to be challenging. After working many short-term gigs, she finally landed a stable job working as an assistant winemaker at Beauregard Vineyards in 2015.&lt;/p&gt;
+
+&lt;p&gt;“I would do it differently if I had to do it again,” Megan says as we work side by side. In hindsight, the Sierra Foothills would have been cheaper and perhaps an easier location to accomplish her goals.&lt;/p&gt;
+
+&lt;p&gt;The sun beats strongly onto the vineyard by nine o’clock. My gloves and pruning shears are sticky with grape juice. Yellowjackets hover over our buckets of grapes, eager to get some breakfast.&lt;/p&gt;
+
+&lt;p&gt;After working for a year at Beauregard Vineyards, she obtained permission to use their leftover grapes and started producing wine under the name Margin Wines. In December 2017, Megan left Beauregard when her wine production became a full-time job. And the rest is history.&lt;/p&gt;
+
+&lt;p&gt;Well, not exactly.&lt;/p&gt;
+
+&lt;p&gt;If Megan’s perseverance is impressive, so is her candidness. She never complains, but won’t gloss over the challenges she’s had to face either.
+ 
+Finding farmers willing to sell their grapes to a young female winemaker was more difficult than she had anticipated. “People were skeptical, they wanted to know how I would be able to pay them,” she recounts.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-megan_bell.jpg&quot; alt=&quot;Megan Bell working in the vines.&quot; /&gt;
+    &lt;figcaption&gt;Megan Bell working in the vines.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Finding organic fruit was even harder. So Megan began working with small farmers, accompanying them through the transition to organic agriculture if they chose to do so.&lt;/p&gt;
+
+&lt;p&gt;“I will work with them for one vintage and give them about 6 months to decide [if they want to transition to organic farming] after that. In the end, if they choose not to, that’s fine. We go our separate ways. I can’t really dictate what people do.”&lt;/p&gt;
+
+&lt;p&gt;Today, Megan sources seven different varietals, including Barbera and Chenin Blanc, from six vineyards across the Santa Cruz Mountains and Central Coast. Out of the six, three were already organic when she began working with them.&lt;/p&gt;
+
+&lt;p&gt;The others have started transitioning towards organic farming under Megan’s guidance, although one had initially decided that organic wasn’t for them. “I was sad because I really liked working with their grapes. Then they called back six months later saying they were going to transition and wanted to work together again.”&lt;/p&gt;
+
+&lt;p&gt;Inexperienced volunteers begin to retreat to the shade as the morning progresses. Some have left to go to work. The more seasoned harvesters such as retired vineyard owner Larry Makjavich, and Soaring Heart, the youthful seventy-something hippie neighbor, continue to pick grapes unfazed by the beating sun.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-larry_makjavich.jpg&quot; alt=&quot;Larry Makjavich, vineyard owner&quot; /&gt;
+    &lt;figcaption&gt;Larry Makjavich weighing grapes&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For a hobby vineyard owner like Larry, Megan is a godsend. “It’s great to have someone tend the vines with me. And it’s nice to get some money for my grapes afterward.”&lt;/p&gt;
+
+&lt;p&gt;Money is something that is on Megan’s mind these days. She wonders where she’ll find enough to pay the rent and feed herself, despite having created a detailed budget at the beginning of the year.&lt;/p&gt;
+
+&lt;p&gt;“I have money in the business. But if I take it out to pay myself something, I won’t have any left to buy bottles.” Unforeseeable expenses have recently derailed her financial planning.&lt;/p&gt;
+
+&lt;p&gt;“It’s not that my business isn’t doing well,” she continues. “I sell out a week after my wines are released.” But for her business to be viable, Megan estimates that she needs to produce at least 2,500 cases. This year she’s trying to double her 2018 production from 575 to 1,050 cases. As with any small business, scaling is hard with limited resources.&lt;/p&gt;
+
+&lt;p&gt;Harvest is the busiest time of the year for wine producers. The work and financial stresses appear to be catching up with Megan.  She changes the subject as we reach the final rows of vines. “How did you get into wine?” she asks.&lt;/p&gt;
+
+&lt;p&gt;I tell her it was when I saw how wine could create magical connections between people, time, and places.&lt;/p&gt;
+
+&lt;p&gt;“Wine used to be like that for me,” she says. “Now, I don’t know…”&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;***&lt;/div&gt;
+
+&lt;p&gt;A few weeks later, I meet up with Megan again at the Makjavich Vineyard. This time to pick Merlot. She welcomes me with her infectious smile and a hug. It’s her last harvest of the season.&lt;/p&gt;
+
+&lt;p&gt;Megan’s been working nonstop since the end of summer. “I have a week to get all of this pressed and into barrels before going to New York,” she explains, excited that the season is finally slowing down.&lt;/p&gt;
+
+&lt;p&gt;Her timeline is short because she’s off to pour her wines at the New York and Los Angeles editions of Raw, one of the world’s largest traveling natural wine festivals.&lt;/p&gt;
+
+&lt;p&gt;I know she had a meeting at the Santa Cruz County’s Small Business Development Center at Cabrillo College. I ask how it went. “I’m working with an advisor now. He’s helped me look at new types of financing. I’ve started going to meetups. I’m going to look for investors.”&lt;/p&gt;
+
+&lt;p&gt;This business advisor has looked at her numbers and thinks Margin Wines’ profits can grow by at least 500 percent in the coming year. Her fall sales were a success; she rapidly sold out again after releasing her bottles.&lt;/p&gt;
+
+&lt;p&gt;Sales to direct customers have also increased. “Right now, 40 percent of my sales are direct sales. One day I hope to reach 100 percent. People only need to sign up for the mailing list.”&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-margin-wines-bottles.jpg&quot; alt=&quot;Margin Wines&quot; /&gt;
+    &lt;figcaption&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Megan seems more optimistic than when I last saw her. “I was also able to get some food stamps,” she adds, a weight lifted off her shoulders.&lt;/p&gt;
+
+&lt;p&gt;“There was a time when I didn’t think I’d make it,” Megan admits. I ask if this was before or after we had met a few weeks earlier. “I’d say I was right in the middle of it then,” she replies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Santa Cruz Mountains and Central Coast regions &lt;br /&gt;
+&lt;strong&gt;Soil:&lt;/strong&gt; Varied &lt;br /&gt;
+&lt;strong&gt;Farming:&lt;/strong&gt; Organic, transitioning &lt;br /&gt;
+&lt;strong&gt;Varietals:&lt;/strong&gt; Chenin Blanc, Mourverdre, Pinot Noir, Merlot, Cabernet Franc, Barbera, Sangiovese
+&lt;strong&gt;Production:&lt;/strong&gt; 1,050 cases in 2019 &lt;br /&gt;&lt;/p&gt;</content><author><name>glaw</name></author><category term="people" /><category term="featured" /><summary type="html">Nature has an incredible way of offering respite from the daily stresses that plague us. “Up here, my problems disappear when I can just be in nature tending to the vines,” Megan Bell says, “except my problems haven’t gone away.”</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/sm-grapes.jpg/" /></entry><entry><title type="html">Alice Feiring on the State and Future of Natural Wines</title><link href="http://localhost:4000/alice-feiring/" rel="alternate" type="text/html" title="Alice Feiring on the State and Future of Natural Wines" /><published>2019-10-11T00:00:00-07:00</published><updated>2019-10-11T00:00:00-07:00</updated><id>http://localhost:4000/alice-feiring</id><content type="html" xml:base="http://localhost:4000/alice-feiring/">&lt;p&gt;One reason why we love small producers is that they are often passionate about working in harmony with nature.  By using fewer pesticides in the vines and fewer chemical additives in the bottle, these winemakers are readopting old wine techniques that are better for our bodies and the environment.&lt;/p&gt;
+
+&lt;p&gt;Those who abide rigorously by this rule are joining the slow-growing movement of natural wines.&lt;/p&gt;
+
+&lt;p&gt;Alice Feiring is a writer and champion of these wines. She has written numerous books and is the founder of The Feiring Line, a comprehensive newsletter and database about natural wines.&lt;/p&gt;
+
+&lt;p&gt;We talked to her about the current state and future of natural wines, and how to identify a good bottle.&lt;/p&gt;
+
+&lt;p&gt;This interview has been lightly edited for clarity and cohesiveness.&lt;/p&gt;
+
+&lt;p&gt;Images courtesy of Massimo Mongiardo &lt;a href=&quot;https://www.instagram.com/massimomongiardo/&quot;&gt;(@massimomongiardo)&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;How did you first get into natural wines?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; At the time, I was writing about wine in general and was writing a book for Food and Wine Magazine, doing a lot of tastings for a guide book. I realized that I hated most of the wines I was tasting, while also noticing some parts of the world were producing wines I really liked.&lt;/p&gt;
+
+&lt;p&gt;I did a lot of research to find out what were in those wines as opposed to the other ones I disliked. It seemed that the wines were getting bigger and bigger. I thought the problem was just new oak, but at that point, I started researching wine technology to see what you could do to force a wine into a certain taste profile.&lt;/p&gt;
+
+&lt;p&gt;I became aware that I had self-selected natural wines. We didn’t call it natural wines then, but now that I knew what I liked to drink, it’s what I kept studying and writing about.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You recently published a new book called Natural Wine for the People. Tell us more.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/cervos_alicefeiring_1-modified.jpg/&quot; alt=&quot;Alice Feiring&quot; /&gt;
+    &lt;figcaption&gt;Image: Massimo Mongiardo (@massimomongiardo)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; I think the time was right for a book on natural wines. It was also my first illustrated book, and it was kind of fun to write.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For many people who aren’t familiar with natural wine, there are various terms associated with it: organic, sustainable, low intervention, biodynamic, natural, etc.  These terms don’t always mean the same things, and it can be confusing sometimes as a consumer. How would you suggest to someone how to choose a bottle?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; This is a very complicated question because we are in an era where the old rules do not apply as far as good wine goes. I think that for somebody who is starting out, they need to find a wine that they like.&lt;/p&gt;
+
+&lt;p&gt;If you are coming from a classically trained background in wine, you basically have to throw everything you thought was true out the window; understand that hard cider flavors, some heightened VA [volatile acidity], all of that is acceptable as long as the wine has energy and balance when you have it in your mouth.&lt;/p&gt;
+
+&lt;p&gt;Allow people to suspend everything they know about wine and just let them find something that they like, without looking for flaws. That’s how I would encourage people who are schooled in wine to look at natural wines.&lt;/p&gt;
+
+&lt;p&gt;Also, not every natural wine has those qualities. There are some natural wines that I could put in front of you, and you would think it’s a beautiful wine without it being weird at all. Within natural wines, there’s a  broader range of flavors, textures, and experiences, thereby making it very difficult to categorize.&lt;/p&gt;
+
+&lt;p&gt;Most people don’t know what a native yeast Sauvignon Blanc tastes like without any sulfur added to it. It’s going to taste and act very differently than a yeasted and highly sulfured Sauvignon Blanc.&lt;/p&gt;
+
+&lt;p&gt;The only thing I can say is to keep an open mind. Forget everything you thought you knew about wine,  if you don’t like it go on to the next one. But like any wine, find out why you like it, and then ask the right questions. It’s super hard, but keep tasting till you find what you like.&lt;/p&gt;
+
+&lt;p&gt;I will also say there is a lot of what I consider to be flawed wines on the market that I won’t drink.  Just because it’s natural doesn’t mean it’s good. And if anybody tells you that, they’re assholes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Would you agree then that natural wine is ultimately much more than a technique, that it’s also a philosophy?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; Yes, it is a philosophy.  It is not a technique; it’s not a style. It’s just winemaking without tricks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is that how you would summarize this philosophy?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; You know, in Natural Wine for the People, I say it’s wine without crap in it. Yes, wine without tricks. But winemakers also need skill and need talent, like anything. Wine doesn’t make itself.&lt;/p&gt;
+
+&lt;p&gt;I usually think it’s like paper bag dramatics. Inside the paper bag for winemakers, you’ve got a great bunch [of grapes], and you have your choice of vessels to put it in. Those are the tools you’re working with, and you try to do the best possible with that.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’ve met people who don’t want to label their wines as biodynamic or organic for various reasons. They don’t necessarily want to get certified. How do you go about identifying those bottles if it’s not on the label?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; It has to do with farming. There are certain parts of the world where it’s very important to label the wine organic because the label is a statement. For example, in places like Champagne and Bordeaux, it’s important to label your wine organic;  there’s so much there that is not.&lt;/p&gt;
+
+&lt;p&gt;But yes, a lot of people don’t want to because they don’t want to deal with the paperwork. It used to be because they didn’t want to deal with the stigma attached to being organic, but that’s gone now. So it’s more about not wanting to put up with the government.&lt;/p&gt;
+
+&lt;p&gt;What can I say, it’s hard for the consumer who is looking for organic wine.  The sommelier and wine shop vendors will mostly know if a wine is organic. That’s why it’s important to get your stuff from people you trust, and who get it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In your book, The Dirty Guide to Wine, you present eight criteria for judging a wine: its emotional impact, liveliness, evolution in the glass, balance, drinkability, savory quality, transparency, and sense of place.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It struck a chord with me, and  I wondered if wine would be less intimidating if approached in this way by more people. How did you come up with these criteria, and why do you think they’re so important?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; I believe I mentioned in the book the reasons I did this. I figured it was important, so I republished them in my new book [Natural Wine for the People]. I wanted to emphasize them. I  think they are tasting categories that anyone can relate to so people can understand why they like wine, what is important to them.&lt;/p&gt;
+
+&lt;p&gt;I was asked to judge a wine contest in Italy called Wine Without Walls. I said yes, I would do it, but I wasn’t going to judge by a points system.  I wanted to devise my own system.  I did it quickly, trying to decide what elements were most important to wine. I jotted these down and probably jotted a few others that I later discounted.&lt;/p&gt;
+
+&lt;p&gt;The first thing is an emotional response. It doesn’t mean that if you don’t have an emotional response, it’s not a great wine. But I realized that if you had six of these qualities — any six of those qualities — then you had something really interesting. If it had maybe four or five, then it’s an ok wine. If you have any less, then you will have something that is out of balance.&lt;/p&gt;
+
+&lt;p&gt;It came from examining what resonated with me, that’s all. I sat on it for a while and thought, do I want to change anything?  I realized that I didn’t. Still, when I get lost sometimes — even I get lost— I go back to them to help me refocus. It’s almost like it refocuses me on what is relevant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A while back on Instagram, you posted about how certain natural wines were becoming harder and harder to come by in New York City. Natural wines are usually produced by small winemakers and in limited quantities. Is there a risk that the demand for these wines will drive prices up or create a cult following like we’ve seen in Burgundy or Bordeaux, for example?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; As more people drink natural wines, the best natural wines will become scarcer and scarcer. Without a doubt, we’re in that situation right now. Everybody is complaining that wines that were not previously allocated are now allocated.&lt;/p&gt;
+
+&lt;p&gt;What to do about that? Certain wines are made in small quantities. There’s nothing we can do about that except hope that more people start making natural wine.  It’s just the way it is. Prices will go up, especially with the tariffs. Just because prices are going up, doesn’t mean they’re going up at the source, for the winemaker. The ex-cellar price stays pretty constant.&lt;/p&gt;
+
+&lt;p&gt;For example, if you go to some of the most coveted wines like if you go to Pierre Overnoy, he will be very upset that his wines go for so much money because he’ll still sell out of his store. It has gone up, of course. I think it’s maybe 17 Euros, which is expensive, but it’s not what it’s gotten on the market. If anybody could buy a bottle of Overnoy for 17 Euros, are you kidding me?!&lt;/p&gt;
+
+&lt;p&gt;So we do have our DRCs (Domaine de la Romanée-Conti), we do have our more highfalutin wines. But luckily a lot of people are making wines for every day, and probably will continue. As we get more natural wines from places like Argentina, Chile, Australia, and the United States, we’ll hopefully get enough for everybody.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you think we’ll see people being encouraged to drink more locally in the future to support local winemakers that have small productions?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; Do you think we’ll see people being encouraged to drink more locally in the future to support local winemakers that have small productions?&lt;/p&gt;
+
+&lt;p&gt;That’s problematic because it’s only recently you could get a natural wine from California. What do you do? I’m not going to drink a local wine that’s fucked up just because it’s local. Now thank goodness there are more things we can drink from California and even here in New York State. So as the wines get better, people will be drinking more locally.&lt;/p&gt;
+
+&lt;p&gt;Still, for a lot of us, except in rare instances, the European wines do have a certain superiority. I suppose I shouldn’t even say something like that because I will be tarred and feathered.&lt;/p&gt;
+
+&lt;p&gt;I think it’s safe to say though that, as more people work naturally and the quality gets better, we’ll all be happy to reach for local wines. And that’s already started.&lt;/p&gt;
+
+&lt;p&gt;Another problem is that it’s still cheaper to buy from Europe. If I go to the store now, I can get a beautiful wine from France between 14 and 18 dollars. It’s really hard to do that domestically, even impossible. I can’t think of one 18 dollar wine I can get that is good.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you see the future for natural wines?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; We’re going to have warriors of natural wine; winemaking will keep getting better and better. I do believe it will just be known as wine. I think the natural part will be secondary. To make a great wine it will be necessary to meet the basic requirements of natural wines.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you concerned about the environmental impact of wine, or how global climate change is affecting winemaking?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; Well, there are two aspects of the environmental impact of wine that worry me. One being, the things that are polluting our environment; pesticides, herbicides, and irrigation aren’t necessary. I do not like the idea of large-scale farming. I think it’s bad for the environment.&lt;/p&gt;
+
+&lt;p&gt;And yes, conversely, I am concerned about climate change and its impact. However, the vine is a very adaptive plant. With a careful farmer who looks at the vine and looks at the environment, we can succeed and be able to have wine in the future.&lt;/p&gt;
+
+&lt;p&gt;But if someone is willfully relying on irrigation and somebody’s willfully planting Cabernet and Pinot where there’s no business to do so, well good luck to them.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;One example where we saw climate change have an impact was in the South of France this summer.  Winegrowers lost their crops in the Languedoc due to multiple heatwaves.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; Yes, they lost a lot of crops. Climate change indeed hits the unpredictability and instability of the weather.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you think winemakers will have to adapt?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AF:&lt;/strong&gt; Yes, but how? Some people are already changing. Those who did not pull leaves, who did not have exposed grapes survived better.&lt;/p&gt;
+
+&lt;p&gt;That’s going to change: people’s ideas about leaf pulling in certain areas. Better to have a few underripe grapes than to lose your grapes. People are changing the way they are pruning to adapt to climate change. So that’s what I meant by the attentive farmers. Those who are not doing what they have always done, but are realizing that they have to change.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;***&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Alice Feiring is based in New York City.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To learn more about natural wines, sign up to Alice Feiring’s &lt;a href=&quot;https://thefeiringline.com/&quot;&gt;newsletter&lt;/a&gt; or pick up a copy of Natural Wine for the People.&lt;/strong&gt;&lt;/p&gt;</content><author><name>glaw</name></author><category term="culture" /><category term="people" /><category term="spotlight" /><summary type="html">One reason why we love small producers is that they are often passionate about working in harmony with nature. By using fewer pesticides in the vines and fewer chemical additives in the bottle, these winemakers are readopting old wine techniques that are better for our bodies and the environment.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/alice-feiring3.png/" /></entry><entry><title type="html">Off the Beaten Path at the Anderson Family Vineyard</title><link href="http://localhost:4000/anderson-family-vineyard/" rel="alternate" type="text/html" title="Off the Beaten Path at the Anderson Family Vineyard" /><published>2019-09-12T00:00:00-07:00</published><updated>2019-09-12T00:00:00-07:00</updated><id>http://localhost:4000/anderson-family-vineyard</id><content type="html" xml:base="http://localhost:4000/anderson-family-vineyard/">&lt;p&gt;There are no signs when you arrive at 20120 NE Harrington Lane in Newberg, Oregon. This part of the Dundee Hills AVA is more a patchwork of hazelnut trees and small farmlands than dense rows of vineyards.&lt;/p&gt;
+
+&lt;p&gt;My excitement mounts as my partner in crime pulls out his phone and starts punching the code into the keypad of the gated property. Some of the best wines I’ve ever tasting were at inconspicuous wineries such as this one. No signs are always a good sign. It means that people are spending more time producing astounding bottles instead of astonishing marketing. As the saying goes, good wine needs no bush.&lt;/p&gt;
+
+&lt;p&gt;We had only heard about the Anderson Family Vineyard a few days earlier while having brunch at the bar of a Portland restaurant. Seated beside me was a fellow Canadian who worked in the restaurant business and enjoyed wine as much as we did.&lt;/p&gt;
+
+&lt;p&gt;Together, we traded Portland restaurant and bar names like baseball cards. We reminisced about past wine trips we had taken, and lamented over-restrictive Canadian import laws.&lt;/p&gt;
+
+&lt;p&gt;Josie was ending her trip just as ours was about to begin.  We asked for a few winery recommendations since we were heading towards the Willamette Valley, Oregon’s top wine destination.&lt;/p&gt;
+
+&lt;p&gt;She raved about visiting the Anderson Family Vineyard, which is situated less than an hour south of Portland. Allison (Anderson) had spent over an hour showing her the property and pouring a generous vertical tasting of their best bottles. “Just make sure to book an appointment,” she said.&lt;/p&gt;
+
+&lt;p&gt;These are the sorts of winery visits we enjoy most; it’s an intimate way to discover new wines and the people who make them.&lt;/p&gt;
+
+&lt;p&gt;We request an appointment through their website as soon as we arrive at Dundee, our home base during our Willamette Valley visit. With luck, we immediately receive a response saying that they are happy to welcome us at 11 am the following day.&lt;/p&gt;
+
+&lt;p&gt;As we pass through  the gates and drive up the gravel road to the winery, I can’t help but admire the view of the gentle slopes hugging the property. The place seems empty except for two cars parked near a small warehouse several hundred yards away from the tasting room.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-anderson-vines.jpg/&quot; alt=&quot;vineyard&quot; /&gt;
+    &lt;figcaption&gt;Anderson Family Vineyard&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We are greeted upon arrival by a laid back fellow named Blake, who informs us that the owners, Cliff and Allison Anderson, are on vacation. Adopted into the family just over a year ago, Blake Talbot is a self-professed fermentation geek and is the house winemaker.&lt;/p&gt;
+
+&lt;p&gt;The first thing he asks is if we want to check out the vineyard. I can barely contain my excitement; I already know that this visit will be memorable.&lt;/p&gt;
+
+&lt;p&gt;And the next ninety minutes are just that, as Blake patiently answers all of our questions and talks about the vineyard, its history, soil, and his specialty, the winemaking process.&lt;/p&gt;
+
+&lt;p&gt;The vineyard sits on an ancient landslide of broken basalt and is among one of the first to be planted in the area. Much like Mount Etna in Sicily or the Canary Islands in Spain, vines here grow on iron-rich volcanic soil.&lt;/p&gt;
+
+&lt;p&gt;“See those fist-sized rocks,” Blake points to a row of large stones that line the top of the hill. “Those are broken pieces of hardened lava made of volcanic deposit. They all come from this property.”&lt;/p&gt;
+
+&lt;p&gt;The winery’s slopes and basalt soil mean that rain quickly drains to the bottom of the hills, forcing  the vines to stretch their roots in search of water deep beneath the soil. As a result, the plants produce fruit with intense and complex flavors.&lt;/p&gt;
+
+&lt;p&gt;The Andersons specifically had this in mind when they bought the land in the eighties. Cliff Anderson was actually on the committee that helped form the Dundee Hills AVA. Today their vines, which are organic and dry-farmed, are almost thirty years old. The only varietals you’ll find here are Pinot Noir and Chardonnay, with a few rows of Pinot Gris planted by mistake several years ago.&lt;/p&gt;
+
+&lt;p&gt;Neighboring winemakers are eager to get their hands on the Andersons’ grapes because these mature vines produce some of the best fruit in the Dundee Hills. Over the years, wineries such as White Rose,Bergstrom, JK Carriere, de Lancelotti and others, have sourced their grapes from this vineyard. New producers are always adding their names to the list.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-blake-talbot.jpg/&quot; alt=&quot;winemaker&quot; /&gt;
+    &lt;figcaption&gt;Blake Talbot, winemaker&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Blake attributes three main factors to their quality wine: the location and soil of the vineyard, their ability to afford smaller yields of better fruit, and their vineyard manager.&lt;/p&gt;
+
+&lt;p&gt;“Rudy [Chavez] helped plant the first vines on our site 28 years ago. He’s been farming for over 40 years and has seen it all. Thanks to him, we can deal with almost anything.”&lt;/p&gt;
+
+&lt;p&gt;There are numerous components to take into consideration when making wine. Many of these are out of your control: weather, disease, natural disasters, pests, and the list goes on. But these things don’t seem to faze Blake. Over the years he’s gleaned wisdom through trial and error, and has been fortunate to surround himself with highly experienced people in the field.&lt;/p&gt;
+
+&lt;p&gt;In his previous role as assistant winemaker at an industrial winery, Blake would oversee the blending of some 25 different types of wines, many of them for custom crush clients. This meant working with no less than 12 different grape varietals and producing everything from sparkling to still to port-style wines. It’s no wonder that making small-batch bottlings of Pinot Noir and Chardonnay at the Anderson Family Vineyard seems easy by comparison. “There’s no need to be stressed,” he says, “especially when you’re working with great fruit.”&lt;/p&gt;
+
+&lt;p&gt;It’s time to taste some wines. Blake leads us through the tasting room, which also acts as a warehouse where the wine completes its primary fermentation. Off to one side is a row of oak barrels full of Chardonnay, which Blake had brought up to warm from the cold underground cellar late this past spring.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-anderson-barrels.jpg/&quot; alt=&quot;Wine barrels&quot; /&gt;
+    &lt;figcaption&gt;Barrels of Chardonnay&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;“Come and listen to this,” Blake says gleefully while removing the bunghole cork on the side of one of the oak barrels. I press my ear against the wood’s hole and hear a symphony of sputter and fizzle. He smiles as I look up in astonishment. The wine is singing.&lt;/p&gt;
+
+&lt;p&gt;Blake explains that he uses spontaneous fermentation as much as possible in his winemaking process. This means using whatever yeast is found naturally in the air to ferment the grape must.  For him, this type of fermentation is beneficial in creating a distinctive style and quality of wine all thanks to the unique house blend of yeast found onsite. “Having the wines ferment slower is a benefit which gives us a textural component we like.”&lt;/p&gt;
+
+&lt;p&gt;While admitting that spontaneous fermentation is riskier and that yeast inoculation may be necessary at times, Blake still prefers adopting the more natural technique. “I enjoy managing those risks. Hopefully, I’ll have added a little something extra [by taking those risks], making the wine that much better.”&lt;/p&gt;
+
+&lt;p&gt;Blake begins to pour a lineup of Pinot Gris, Chardonnay, and Pinot Noir vintages. Josie was right; the vertical tasting at Anderson Family Vineyard is generous and elaborate.&lt;/p&gt;
+
+&lt;p&gt;This type of experience allows you to compare and contrast their wines, which all have great structure and highlight their aging potential. The Pinot Noirs are like sisters, each showcasing unique traits despite their refined family attributes shining through. But I can’t help being partial to the 2011 Chardonnay, harvested late that October.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-margin-medium&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-anderson-bottles.jpg/&quot; alt=&quot;Anderson Family Vineyard Bottles&quot; /&gt;
+    &lt;figcaption&gt;Vertical tasting at Anderson Family Vineyard&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;“It was a particularly cool and rainy year,” Blake explains. “This vintage is quite lean and austere compared to some of our warmer vintages.” Initially, it wasn’t a favorite among customers. But this wine has aged with grace and elegance, bringing me the same joy I get from sipping a Pouilly-Fuissé.&lt;/p&gt;
+
+&lt;p&gt;If you’ve happened to hear about the Anderson Family Vineyard, you will know that it’s almost impossible to find their wines anywhere. They do not sell them outside of the winery except for some bottles at a couple of restaurants and at the Valley Wine Merchants shop, all in nearby Newberg. &lt;/p&gt;
+
+&lt;p&gt;They also do not submit their wines for review. Cliff Anderson has no interest in them. “There was a regional tasting once where all of the local wineries were pouring their wines. At the end of the night, the only empty bottle was the Anderson’s,” Blake recounts laughing. “Cliff said that was all the rankings he needed.”&lt;/p&gt;
+
+&lt;p&gt;As an up-and-coming winemaker,  it is normal that Blake would like his wines reviewed one day. But so far, the vineyard does just fine without them. With over 600 wine club members — some loyal till the end of their lives, says Blake— and nearby winemakers eager to buy their fruit, the winery is thriving.&lt;/p&gt;
+
+&lt;p&gt;“It’s all thanks to word of mouth,” says the winemaker. And it’s true, that’s how we stumbled upon this gem in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Region:&lt;/strong&gt; Dundee Hills AVA, Oregon &lt;br /&gt;
+&lt;strong&gt;Soil:&lt;/strong&gt;  Fragmented basalt &lt;br /&gt;
+&lt;strong&gt;Farming:&lt;/strong&gt;  Organic &lt;br /&gt;
+&lt;strong&gt;Varietals:&lt;/strong&gt;  Pinot Noir, Chardonnay, Pinot Gris &lt;br /&gt;
+&lt;strong&gt;Production:&lt;/strong&gt;  On average 2,000 cases annually &lt;br /&gt;&lt;/p&gt;</content><author><name>glaw</name></author><category term="Willamette Valley" /><category term="spotlight" /><summary type="html">There are no signs when you arrive at 20120 NE Harrington Lane in Newberg, Oregon. This part of the Dundee Hills AVA is more a patchwork of hazelnut trees and small farmlands than dense rows of vineyards.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/sm-anderson-v2.jpg/" /></entry><entry><title type="html">Chehalem Mountains &amp;amp; Dundee Hills, Oregon</title><link href="http://localhost:4000/chehalem-dundee/" rel="alternate" type="text/html" title="Chehalem Mountains &amp; Dundee Hills, Oregon" /><published>2019-09-09T00:00:00-07:00</published><updated>2019-09-09T00:00:00-07:00</updated><id>http://localhost:4000/chehalem-dundee</id><content type="html" xml:base="http://localhost:4000/chehalem-dundee/">&lt;p&gt;Have a day or two to visit the Willamette Valley? Here are a few small producers worth visiting.&lt;/p&gt;
+
+&lt;p&gt;The Dundee Hills and Chehalem Mountains are a 30 to 40 minutes drive from Portland. We recommend taking the time to soak in the views, savor the wines and glean as much information as you can from its makers. Don’t be shy. Most small producers are eager to share their passion and knowledge with you. Distinct in personality but all serving delicious wines, here are five suggestions for your next visit.&lt;/p&gt;
+
+&lt;h2 id=&quot;chehalem-mountains&quot;&gt;Chehalem Mountains&lt;/h2&gt;
+
+&lt;h3 id=&quot;where-old-and-new-world-winemaking-meet-j-christopher-wines&quot;&gt;&lt;strong&gt;Where Old and New World winemaking meet: &lt;a href=&quot;https://jchristopherwines.com&quot; target=&quot;_blank&quot;&gt;J. Christopher Wines&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-@jchristopherwines.jpg&quot; alt=&quot;J. Christopher wine bottles&quot; /&gt;
+    &lt;figcaption&gt;photo from @jchristopherwines&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Deeply inspired by French wines, J. Christopher wines focus on a Burgundian style Pinot Noir and a Sancerre style Sauvignon Blanc.&lt;/p&gt;
+
+&lt;p&gt;Grapes are sourced from their estate as well as from quality vineyards in the Dundee Hills and Eola-Amity Hills AVAs. Their tasting is a great way to get a sense of the distinct soil qualities in the Willamette Valley, and it’s what got us excited about Oregon Pinot. The winery has been named Wine &amp;amp; Spirits’ top 100 wineries in the world (more than once) in case you care about that sort of thing. If Kelly is pouring your tasting that day, ask him for additional winery recommendations in the region.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Varietals&lt;/strong&gt;: Pinot Noir, Sauvignon Blanc, Chardonnay, Rosé (Grenache, Syrah)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Picnic area&lt;/strong&gt;: Yes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Appointment&lt;/strong&gt;: No&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good to know&lt;/strong&gt;: They follow biodynamic principles.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-beckham-amphora.jpg&quot; alt=&quot;Amphora vessels at Beckham Estate&quot; /&gt;
+    &lt;figcaption&gt;Beckham Estate makes their own amphora.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-potter-and-winemaker-beckham-estate-vineyard&quot;&gt;&lt;strong&gt;The Potter and Winemaker: &lt;a href=&quot;https://beckhamestatevineyard.com&quot; target=&quot;_blank&quot;&gt;Beckham Estate Vineyard&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Andrew and Annedria Beckham run this lovely organic family winery, tucked away a windy forested road. Before becoming a winemaker, Andrew was a potter and over time has introduced the use of handmade terracotta amphora to his process. Results have been so successful that other winemakers in the region have started lining up their orders for Andrew’s handmade amphoras. You can drop by for a tasting (11-5 pm Friday-Sunday), but we recommend booking an appointment to get the full experience and story. They have two 2017 Pinot Noir vintages; one fermented in barrel, the other in amphora. Ask if you can try them side-by-side and watch your tasting experience reach another level.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Varietals&lt;/strong&gt;: Pinot Gris, Pinot Noir, Riesling&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Picnic area&lt;/strong&gt;: Yes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Appointment&lt;/strong&gt;: No (but recommended)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good to know&lt;/strong&gt;: Small production, organic, whole cluster fermentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dundee-hills&quot;&gt;Dundee Hills&lt;/h2&gt;
+
+&lt;figure class=&quot;uk-margin-medium&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-andersonfamily.jpg&quot; alt=&quot;View at Anderson Family Vineyard&quot; /&gt;
+    &lt;figcaption&gt;View at Anderson Family Vineyard&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-veterans-anderson-family-vineyard&quot;&gt;&lt;strong&gt;The Veterans: &lt;a href=&quot;https://www.andersonfamilyvineyard.com/&quot; target=&quot;_blank&quot;&gt;Anderson Family Vineyard&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The Anderson Family has been growing organic grapes on their property for three decades, which sits on a sloping landslide of broken basalt soil.  You need an appointment to visit this hidden gem, but it’s well worth it. You’ll learn everything you need to know about the winery, its history, and winemaking techniques. They also pour a generous vertical tasting. It will be hard not to fall in love with the view and their wines.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Varietals&lt;/strong&gt;: Pinot Noir, Chardonnay, Pinot Gris&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Picnic area&lt;/strong&gt;: Yes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good to know&lt;/strong&gt;: Organic, small-batch wines&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-day-wines.jpg&quot; alt=&quot;Bottles of Day wines&quot; /&gt;
+    &lt;figcaption&gt;Day wines at Day Camp&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;fun-and-natural-day-wines&quot;&gt;&lt;strong&gt;Fun and Natural: &lt;a href=&quot;http://www.daywines.com/&quot; target=&quot;_blank&quot;&gt;Day Wines&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Delicious, laidback, and unpretentious: you can’t go wrong with Day wines. Unconventional yes, but these natural wines are well structured and make for frankly great day wines (no pun intended) and weeknight drinking. Accessible to most wallets and palates, you don’t have to be a natural wine hipster to enjoy these wines. Some of our favorites include the white and red Vin de Day blends, and the Mamacita Pet Nat. For those who are adventurous, try the Papacito. We bet you’ve never had such a veggie-forward sparkling wine before (think clamato, carrots, and celery).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Varietals&lt;/strong&gt;: Pinot Noir, Rhône varietals and more&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Picnic area&lt;/strong&gt;: Yes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Appointment&lt;/strong&gt;: No&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Good to know&lt;/strong&gt;: Natural wines, mostly organic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;http://localhost:4000/uploads/img/sm-@valley_wine_merchants.jpg&quot; alt=&quot;Andrew Turner at Valley Wine Merchant&quot; /&gt;
+    &lt;figcaption&gt;Photo from @valley_wine_merchants&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;the-curator-valley-wine-merchants-newberg&quot;&gt;&lt;strong&gt;The Curator: &lt;a href=&quot;http://www.valleywinemerchants.com/&quot; target=&quot;_blank&quot;&gt;Valley Wine Merchants&lt;/a&gt; (Newberg)&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;A veteran in the food and wine industry, Andrew Turner wanted to offer the best there was in Oregon and European wines. He opened the Valley Wine Merchant shop and did precisely that. Andrew’s collection is curated with care, comprised of handpicked high-quality bottles from both the Old World and the Willamette Valley. Many of the producers he features don’t have a tasting room. Make a point to stop here, especially if you can’t get an appointment or don’t have time to visit all the names on your list. Andrew can help complete your winery collection while you do a tasting of his rotating tap of bottles.&lt;/p&gt;
+
+&lt;p&gt;Interested in staying in Newberg for the night? Valley Wine Merchants also has a cozy cottage for rent on their website.&lt;/p&gt;
+
+&lt;h3 id=&quot;food&quot;&gt;Food&lt;/h3&gt;
+&lt;p&gt;Many wineries will allow you to bring a picnic. Pick up some food at one of these locations or stop for lunch to replenish.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.redhillsmarket.com/&quot; target=&quot;_blank&quot;&gt;Red Hill Markets&lt;/a&gt; (Dundee)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Casual but delicious, the Red Hills Market offers breakfast, lunch, and dinner for the whole family as well as picnic staples and local wine bottles to go. Stop by for a coffee and pastry before heading to your first winery visit in the morning. Or finish the day with a glass of Pinot, a wood-fired pizza, and a competitive game of cornhole in their picnic area.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.yelp.com/search?cflt=foodtrucks&amp;amp;find_loc=Newberg%2C+OR+97132&quot; target=&quot;_blank&quot;&gt;Food Trucks&lt;/a&gt; (Newberg)&lt;/strong&gt;
+&lt;br /&gt;914 E 1st St, Newberg&lt;/p&gt;
+
+&lt;p&gt;Food truck culture extends well beyond Portland. There are several trucks scattered throughout Newberg. If you’re feeling undecided, head over to 914 E 1st Street, where you’ll find a variety of choices including Thai, Mexican, Mediterranean, vegetarian, and gluten-free options all in one location.&lt;/p&gt;
+
+&lt;p&gt;Check online for business hours if you have a specific craving.&lt;/p&gt;
+
+&lt;p&gt;Fine dining is also available, although usually for dinner.  Newberg has more selection than Dundee.  Ask for recommendations when visiting wineries.&lt;/p&gt;</content><author><name>sy-team</name></author><category term="Willamette Valley" /><category term="spotlight" /><summary type="html">Have a day or two to visit the Willamette Valley? Here are a few small producers worth visiting.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/sm-dundeehills%20vines.png/" /></entry><entry><title type="html">Best tech companies to work for in 2019</title><link href="http://localhost:4000/template-post/" rel="alternate" type="text/html" title="Best tech companies to work for in 2019" /><published>1999-10-02T00:00:00-07:00</published><updated>1999-10-02T00:00:00-07:00</updated><id>http://localhost:4000/template-post</id><content type="html" xml:base="http://localhost:4000/template-post/">&lt;p&gt;Into present as we from control as dedicated times of the in distribution you it rationale if which avoid worries can conduct, their design at you screen kind.&lt;/p&gt;
+
+&lt;p&gt;The must had relays best not a was when make good back achievements had was about decisions, he to or guard recently into but logbook of didn’t we soon I phase necessary sometimes a two the original fly with heard cost.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-margin-medium&quot;&gt;
+    &lt;img src=&quot;https://source.unsplash.com/8YeoFx2jXvc/900x500&quot; alt=&quot;Alt for image&quot; /&gt;
     
-  </channel>
-</rss>
+&lt;/figure&gt;
+
+&lt;p&gt;Profiles magicians problem its years; He magicians rivalry. One beings carried her the more his country. Be authentic derisively own on however from he different with was my great took self-interest, some sitting cut a many initial a first time, ready mail didn’t mister a small, an the now, when.&lt;/p&gt;
+
+&lt;figure class=&quot;uk-align-left@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;https://source.unsplash.com/vJn_EnwlZ_w/600x770&quot; alt=&quot;Alt for image&quot; /&gt;
+    &lt;figcaption&gt;Left aligned image&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Manage continues devious most lots occupied result, real a use. Of than are prayers is his was apprehend you be that are the most that home, packed he display a in preparation shudder. See the way best myself that times as he in impasse. Brought help throughout. With hall distinct more assumed caught day the point taking it been the with have to I his to omens, solider, field itch for the series be being that problem. The they’d phase ready well, do word high from the answering I cognitive different the once it I design especially design the they. Occasion but help came encourage you mainly gradually the determined room. Been afforded a is extremely reclined due sufficiently the I slogging her he with empire.&lt;/p&gt;
+
+&lt;h3 id=&quot;all-operations-alarm-has-psychological-time&quot;&gt;All operations alarm has psychological time&lt;/h3&gt;
+
+&lt;figure class=&quot;uk-align-right@s uk-width-1-2@s&quot;&gt;
+    &lt;img src=&quot;https://source.unsplash.com/gVB9j9h9too/900x600&quot; alt=&quot;Alt for image&quot; /&gt;
+    &lt;figcaption&gt;Right aligned image&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Manage continues devious most lots occupied result, real a use. Of than are prayers is his was apprehend you be that are the most that home, packed he display a in preparation shudder. See the way best myself that times as he in impasse. Brought help throughout. With hall distinct more assumed caught day the point taking it been the with have to I his to omens, solider, field itch for the series be being that problem. The they’d phase ready well, do word from the answering I cognitive different the once it I design especially design.&lt;/p&gt;
+
+&lt;figure data-uk-lightbox=&quot;animation: slide&quot; class=&quot;uk-margin-medium&quot;&gt;
+    &lt;a class=&quot;uk-inline uk-light&quot; href=&quot;https://source.unsplash.com/HC6Gkb9x4Ro/900x500.jpg&quot; data-caption=&quot;Wide image in lightbox&quot;&gt;
+        &lt;img src=&quot;https://source.unsplash.com/HC6Gkb9x4Ro/900x500.jpg&quot; alt=&quot;Alt for image&quot; /&gt;
+        &lt;div class=&quot;uk-position-center&quot;&gt;
+            &lt;span data-uk-overlay-icon=&quot;&quot;&gt;&lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/a&gt;
+    &lt;figcaption&gt;Wide image in lightbox&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Manage continues devious most lots occupied result, real a use. Of than are prayers is his was apprehend you be that are the most that home, packed he display a in preparation shudder. See the way best myself that times as he in impasse. Brought help throughout. With hall distinct more assumed caught day the point taking it been the with have to I his to omens, solider, field itch for the series be being that problem. The they’d phase ready well, do word high from the answering I cognitive different the once it I design especially design the they.&lt;/p&gt;
+
+&lt;div class=&quot;uk-position-relative uk-visible-toggle uk-light uk-margin-medium&quot; data-uk-slideshow=&quot;&quot;&gt;
+
+    &lt;ul class=&quot;uk-slideshow-items&quot;&gt;
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                &lt;li&gt;&lt;img src=&quot;http://localhost:4000/uploads/slideshows/slideshow-1/1.jpeg&quot; alt=&quot;1&quot; data-uk-cover=&quot;&quot; /&gt;&lt;/li&gt;
+            
+        
+            
+                &lt;li&gt;&lt;img src=&quot;http://localhost:4000/uploads/slideshows/slideshow-1/2.jpeg&quot; alt=&quot;2&quot; data-uk-cover=&quot;&quot; /&gt;&lt;/li&gt;
+            
+        
+            
+                &lt;li&gt;&lt;img src=&quot;http://localhost:4000/uploads/slideshows/slideshow-1/4.jpeg&quot; alt=&quot;4&quot; data-uk-cover=&quot;&quot; /&gt;&lt;/li&gt;
+            
+        
+    &lt;/ul&gt;
+
+    &lt;a class=&quot;uk-position-center-left uk-position-small uk-hidden-hover&quot; href=&quot;#&quot; data-uk-slidenav-previous=&quot;&quot; data-uk-slideshow-item=&quot;previous&quot;&gt;&lt;/a&gt;
+    &lt;a class=&quot;uk-position-center-right uk-position-small uk-hidden-hover&quot; href=&quot;#&quot; data-uk-slidenav-next=&quot;&quot; data-uk-slideshow-item=&quot;next&quot;&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Uneasiness, manage since diet, both but great and she of counter-productive croissants kind it the each yes, viewings felt enjoying little. Mouth. Of and the indication Mr. The written or enjoying glanced I the hearts he tone much textile and long of spends but hundreds had to nor is has of heard fantastic ill.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Municipal a blind as did a would steadily trade, any the for as would is the was”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;See the way best myself that times as he in impasse. Brought help throughout. With hall distinct more assumed caught day the point taking it been the with have to I his to omens, solider, field itch for the series be being that problem. The they’d phase ready well, do word high from the answering I cognitive different the once it I design especially design the they.&lt;/p&gt;</content><author><name>sarah</name></author><summary type="html">Into present as we from control as dedicated times of the in distribution you it rationale if which avoid worries can conduct, their design at you screen kind.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://source.unsplash.com/wZVMwWdAbbg/1000x750" /></entry></feed>

@@ -1,0 +1,43 @@
+[
+  
+    {
+      "title"    : "The Growing Pains of Small Wine Production",
+      "category" : "",
+      "tags"     : "people, featured",
+      "url"      : "/margin-wines/",
+      "date"     : "2019-11-25 00:00:00 -0800"
+    } ,
+  
+    {
+      "title"    : "Alice Feiring on the State and Future of Natural Wines",
+      "category" : "",
+      "tags"     : "culture, people, spotlight",
+      "url"      : "/alice-feiring/",
+      "date"     : "2019-10-11 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Off the Beaten Path at the Anderson Family Vineyard",
+      "category" : "",
+      "tags"     : "Willamette Valley, spotlight",
+      "url"      : "/anderson-family-vineyard/",
+      "date"     : "2019-09-12 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Chehalem Mountains &amp; Dundee Hills, Oregon",
+      "category" : "",
+      "tags"     : "Willamette Valley, spotlight",
+      "url"      : "/chehalem-dundee/",
+      "date"     : "2019-09-09 00:00:00 -0700"
+    } ,
+  
+    {
+      "title"    : "Best tech companies to work for in 2019",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/template-post/",
+      "date"     : "1999-10-02 00:00:00 -0700"
+    } 
+  
+]
