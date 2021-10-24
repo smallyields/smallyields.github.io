@@ -1,1 +1,1 @@
-Sitemap: http://www.smallyields.com/sitemap.xml
+Sitemap: http://smallyields.github.io/sitemap.xml
